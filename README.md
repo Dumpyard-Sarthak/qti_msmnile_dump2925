@@ -1,0 +1,14 @@
+# qssi-user 12 SKQ1.220303.001 1655797375303 release-keys
+- manufacturer: 
+- platform: msmnile
+- codename: msmnile
+- flavor: qssi-user
+- release: 12
+- id: SKQ1.220303.001
+- incremental: 1655797375303
+- tags: release-keys
+- fingerprint: qti/msmnile/msmnile:12/RKQ1.211119.001/1655796511693:user/release-keys
+- is_ab: false
+- brand: qti
+- branch: qssi-user-12-SKQ1.220303.001-1655797375303-release-keys
+- repo: qti_msmnile_dump2925

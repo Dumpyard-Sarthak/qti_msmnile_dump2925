@@ -1,0 +1,42 @@
+{
+    "vStudio.Android.Camera360": {
+        "resolutionFilterForNotAddSizeAPI1": [
+            "4608x3456",
+            "4160x3120",
+            "4160x2340",
+            "4000x3000",
+            "4096x2160",
+            "2688x1512",
+            "2592x1944",
+            "2592x1940",
+            "2592x1458",
+            "2592x1232",
+            "2592x1196",
+            "2560x1920"
+        ]
+    },
+    "com.whatsapp": {
+         "thirdPartyAppWidthLimitForCam0API2": 1920,
+         "thirdPartyAppHeightLimitForCam0API2": 1080
+    },
+    "com.smile.gifmaker": {
+        "app_enable_rio": true,
+        "adjustInvalidFpsForAPI1": true
+    },
+    "jp.naver.linecamera.android": {
+        "needLimitFpsForAPI1": true
+    },
+    "com.google.android.apps.messaging": {
+        "previewSizeForAPI1Width":2340,
+        "previewSizeForAPI1Height":1296
+    },
+    "com.finalwire.aida64": {
+        "videoSizeForCam0API1MAXWidth": 3840,
+        "videoSizeForCam0API1MAXHeight": 2160
+    },
+    "default": {
+        "need_mFreeDomEviction_list": [
+            "com.whatsapp"
+        ]
+    }
+}
